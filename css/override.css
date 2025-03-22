@@ -5,9 +5,10 @@ hr {
 
 .site-title {
     font-family: 'Source Sans Pro', 'Roboto', sans-serif;
+    font-weight: 400
 }
 
-/* Post navigation links test testtest test*/
+/* Post navigation links*/
 .post_navi {
   display: flex;
 }
