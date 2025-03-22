@@ -1,7 +1,3 @@
-Here you can say lots of fun things about your site.
+Tech is like a box of chocolates
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
-
-testest
+You never know what you’ll gonna get🧩
