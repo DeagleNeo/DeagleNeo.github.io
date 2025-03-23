@@ -5,7 +5,8 @@ hr {
 
 .site-title {
     font-family: 'Source Sans Pro', 'Roboto', sans-serif;
-    font-weight: 400
+    font-weight: 400;
+    letter-spacing: 0.15em;
 }
 
 /* Post navigation links*/
