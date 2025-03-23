@@ -1,3 +1,3 @@
-Tech is like a box of chocolates
+Tech is like a box of chocolates 🍫
 
-You never know what you’re gonna get🧩
+You never know what you’re gonna get 🧩
