@@ -4,9 +4,9 @@ hr {
 }
 
 .site-title {
-    font-family: 'Source Sans Pro', 'Roboto', sans-serif;
+    font-size: 28px;
     font-weight: 400;
-    letter-spacing: 0.15em;
+    letter-spacing: 0.1em;
 }
 
 /* Post navigation links*/
